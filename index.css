@@ -23,10 +23,10 @@
     margin-top: 30px;
     margin-left: 10px;
     font-size: 20px;
-    font-family: cursive;}
+    font-family: arial;}
    
     .sec2{
-        font-family: system-ui;
+        font-family: Arial;
         font-size: 20px;
         margin: 5px ;
         padding: 5px;
@@ -42,14 +42,14 @@
     margin-top: 10px;
     margin-left: 10px;
     font-size: 20px;
-    font-family: cursive;
+    font-family: arial;
     padding: 10px;
     border-radius: 5px;
   }
   .footer{
       background-color: #066163;
       color: white;
-      font-family: cursive;
+      font-family: arial;
       text-align: center;
       margin-top: 50px;
       padding: 10px;
